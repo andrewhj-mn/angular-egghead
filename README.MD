@@ -1,1 +1,0 @@
-Initial creation of an angular project using bower.  Will update to use appropriate build tools as used.
